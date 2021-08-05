@@ -97,14 +97,6 @@ http://117.169.124.11:6610/PLTV/88888910/224/3221225704/index.m3u8
 http://117.169.124.11:6610/PLTV/88888910/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视
 http://117.169.124.11:6610/PLTV/88888910/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实HD
-http://117.169.124.11:6610/PLTV/88888910/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实
-http://117.169.124.11:6610/PLTV/88888910/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实HD
-http://117.169.124.11:6610/PLTV/88888910/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
-http://117.169.124.11:6610/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视频道",四川卫视
 http://117.169.124.11:6610/PLTV/88888910/224/3221225733/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视频道",天津卫视
@@ -161,7 +153,7 @@ http://117.169.124.11:6610/PLTV/88888910/224/3221225728/index.m3u8
 http://117.169.124.11:6610/PLTV/88888910/224/3221225735/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁卫视
 http://117.169.124.11:6610/PLTV/88888910/224/3221225696/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视频道",超级江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视频道",江西卫视
 http://117.169.124.11:6610/PLTV/88888910/224/3221225979/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级体育4M
 http://117.169.124.11:6610/PLTV/88888910/224/3221225622/index.m3u8
@@ -191,10 +183,6 @@ http://117.169.124.11:6610/PLTV/88888910/224/3221225718/index.m3u8
 http://117.169.124.11:6610/PLTV/88888910/224/3221225710/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金牌综艺
 http://117.169.124.11:6610/PLTV/88888910/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视频道",金鹰卡通
-http://117.169.124.11:6610/PLTV/88888910/224/3221225721/index.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷少儿
-http://117.169.124.11:6610/PLTV/88888910/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",古装剧场
 http://117.169.124.11:6610/PLTV/88888910/224/3221225678/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动作电影
@@ -228,8 +216,6 @@ http://117.169.124.11:6610/PLTV/88888910/224/3221225655/index.m3u8
 http://117.169.124.11:6610/PLTV/88888910/224/3221225623/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",NewTV动作电影FHD
 http://117.169.124.11:6610/PLTV/88888910/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",黑莓动画FHD
-http://117.169.124.11:6610/PLTV/88888910/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",NewTV惊悚悬疑FHD
 http://117.169.124.11:6610/PLTV/88888910/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",黑莓电影FHD
@@ -446,6 +432,11 @@ https://rakuten-documentaries-11-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-documentaries-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="纪录片频道",纪实人文
 http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
+http://117.169.124.11:6610/PLTV/88888910/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="纪录片频道",北京纪实HD
+http://117.169.124.11:6610/PLTV/88888910/224/3221225675/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰资讯
@@ -527,226 +518,5 @@ http://seb.sason.top/ptv/ftv.php?id=ly
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",周星驰
-http://kuqq.tk/00/huya.php?id=11342412
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",林正英
-http://kuqq.tk/00/huya.php?id=11342421
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",成龙
-http://kuqq.tk/00/huya.php?id=11342386
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",李连杰
-http://kuqq.tk/00/huya.php?id=11342390
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",吴京
-http://kuqq.tk/00/huya.php?id=11602045
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",刘德华
-http://kuqq.tk/00/huya.php?id=11342424
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",五福星
-http://kuqq.tk/00/huya.php?id=11282233
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",甄子丹
-http://kuqq.tk/00/huya.php?id=11352935
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",周润发
-http://kuqq.tk/00/huya.php?id=11342387
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",沈腾
-http://kuqq.tk/00/huya.php?id=11601968
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",洪金宝
-http://kuqq.tk/00/huya.php?id=11342427
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",徐峥
-http://kuqq.tk/00/huya.php?id=11602043
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",赌片
-http://kuqq.tk/00/huya.php?id=11342399
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="轮播频道",黑帮
-http://kuqq.tk/00/huya.php?id=11336719
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",卧底警匪
-http://kuqq.tk/00/huya.php?id=11352886
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",变形金刚
-http://kuqq.tk/00/huya.php?id=11342433
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png"  group-title="其他轮播",盗墓系列
-http://kuqq.tk/00/huya.php?id=11352913
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",灾难电影
-http://kuqq.tk/00/huya.php?id=11352871
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",终结者电影
-http://kuqq.tk/00/huya.php?id=11352979
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",徐峥
-http://kuqq.tk/00/huya.php?id=11602043
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",漫威
-http://kuqq.tk/00/huya.php?id=11602075
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",刘德华
-http://kuqq.tk/00/huya.php?id=11342424
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",韩国犯罪动作
-http://kuqq.tk/00/huya.php?id=11601956
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",速度与激情
-http://kuqq.tk/00/huya.php?id=11352949
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",香港恐怖
-http://kuqq.tk/00/huya.php?id=11601960
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",异性怪物
-http://kuqq.tk/00/huya.php?id=11352938
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",历年贺岁档
-http://kuqq.tk/00/huya.php?id=11601986
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",杰森斯坦森
-http://kuqq.tk/00/huya.php?id=11336572
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",港产搞笑
-http://kuqq.tk/00/huya.php?id=11342423
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",金庸电影
-http://kuqq.tk/00/huya.php?id=11352897
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",热血高校
-http://kuqq.tk/00/huya.php?id=11342402
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",许氏电影
-http://kuqq.tk/00/huya.php?id=11602033
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",第一滴血
-http://kuqq.tk/00/huya.php?id=11352934
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",小丑电影
-http://kuqq.tk/00/huya.php?id=11352941
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",外国电影
-http://kuqq.tk/00/huya.php?id=11342428
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",游戏改编电影
-http://kuqq.tk/00/huya.php?id=10871113
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",奥斯卡提名
-http://kuqq.tk/00/huya.php?id=11352969
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",黑夜传说
-http://kuqq.tk/00/huya.php?id=11352881
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",开心鬼
-http://kuqq.tk/00/huya.php?id=11342388
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",香港霸王花
-http://kuqq.tk/00/huya.php?id=11352909
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",爱情公寓
-http://kuqq.tk/00/huya.php?id=11336726
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",武林外传
-http://kuqq.tk/00/huya.php?id=11352915
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",插翅难逃
-http://kuqq.tk/00/huya.php?id=11352940
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",神探狄仁杰
-http://kuqq.tk/00/huya.php?id=11352958
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",家有儿女
-http://kuqq.tk/00/huya.php?id=11352872
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",少年包青天
-http://kuqq.tk/00/huya.php?id=11342393
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",好先生
-http://kuqq.tk/00/huya.php?id=11352973
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",火蓝刀锋
-http://kuqq.tk/00/huya.php?id=11336592
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",知否知否
-http://kuqq.tk/00/huya.php?id=11602068
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",士兵突击
-http://kuqq.tk/00/huya.php?id=11342430
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",搞笑一家人
-http://kuqq.tk/00/huya.php?id=11601978
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",少帅
-http://kuqq.tk/00/huya.php?id=11342414
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",天龙八部胡军
-http://kuqq.tk/00/huya.php?id=11602036
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png"  group-title="其他轮播",新倚天屠龙记
-http://kuqq.tk/00/huya.php?id=11602067
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png"  group-title="其他轮播",韩剧剧场
-http://kuqq.tk/00/huya.php?id=11352904
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png"  group-title="其他轮播",欢乐颂
-http://kuqq.tk/00/huya.php?id=11601979
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",法证先锋
-http://kuqq.tk/00/huya.php?id=11342398
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",神话
-http://kuqq.tk/00/huya.php?id=11602074
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",医馆笑传
-http://kuqq.tk/00/huya.php?id=11352891
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",情满四合院
-http://kuqq.tk/00/huya.php?id=11342426
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",父母爱情
-http://kuqq.tk/00/huya.php?id=11352920
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",毛骗
-http://kuqq.tk/00/huya.php?id=11352912
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",都挺好
-http://kuqq.tk/00/huya.php?id=11602084
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",老友记
-http://kuqq.tk/00/huya.php?id=11352945
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",香蜜沉沉
-http://kuqq.tk/00/huya.php?id=11352892
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",我的团长我的团
-http://kuqq.tk/00/huya.php?id=11342416
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",大宋提刑官
-http://kuqq.tk/00/huya.php?id=11279251
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",爱死亡机器人
-http://kuqq.tk/00/huya.php?id=11601964
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",魔幻手机
-http://kuqq.tk/00/huya.php?id=11602065
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",行尸走肉
-http://kuqq.tk/00/huya.php?id=11352963
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",旋风十一人
-http://kuqq.tk/00/huya.php?id=11342400
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",猪八戒系列
-http://kuqq.tk/00/huya.php?id=11352877
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",王子变青蛙
-http://kuqq.tk/00/huya.php?id=11352960
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",我的前半生
-http://kuqq.tk/00/huya.php?id=11601971
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",新神雕侠侣古天乐
-http://kuqq.tk/00/huya.php?id=11352878
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",我们结婚吧
-http://kuqq.tk/00/huya.php?id=11342394
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",极品家丁
-http://kuqq.tk/00/huya.php?id=11352884
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",血色浪漫
-http://kuqq.tk/00/huya.php?id=11602055
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",恐怖短片
-http://kuqq.tk/00/huya.php?id=17098448
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",小虎牙
-http://kuqq.tk/00/huya.php?id=17904870
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",阿斗归来了
-http://kuqq.tk/00/huya.php?id=adgll
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",陈翔六点半
-http://kuqq.tk/00/huya.php?id=cxldb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",扁豆看电影
-http://kuqq.tk/00/huya.php?id=bdcmovie
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",科幻五分钟
-http://kuqq.tk/00/huya.php?id=kh1905
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",恐怖地带
-http://kuqq.tk/00/huya.php?id=16741179
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",吾聊电影
-http://kuqq.tk/00/huya.php?id=16424416
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",Big笑工坊
-http://kuqq.tk/00/huya.php?id=14776702
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",斌哥搬砖
-http://kuqq.tk/00/huya.php?id=18632116
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",电影最TOP
-http://kuqq.tk/00/huya.php?id=topfilm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",亮哥讲电影
-http://kuqq.tk/00/huya.php?id=16144175
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",李小哇僵尸
-http://kuqq.tk/00/huya.php?id=18441722
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",小丑讲电影
-http://kuqq.tk/00/huya.php?id=16857432
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",好尸
-http://kuqq.tk/00/huya.php?id=15981239
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",越哥说电影
-http://kuqq.tk/00/huya.php?id=yuegemovie
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",俗哥说电影
-http://kuqq.tk/00/huya.php?id=15452736
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",小川侃电影
-http://kuqq.tk/00/huya.php?id=15870999
-#EXTINF:-1 group-title="其他轮播",熊妹撩电影
-http://kuqq.tk/00/huya.php?id=xiongmei666
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",来呀官人
-http://kuqq.tk/00/huya.php?id=15763558
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",鲁班爱看剧
-http://kuqq.tk/00/huya.php?id=17139168
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",噔噔悬疑社
-http://kuqq.tk/00/huya.php?id=17445539
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",娘子说电影
-http://kuqq.tk/00/huya.php?id=18964209
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",Low君
-http://kuqq.tk/00/huya.php?id=17147314
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",影视新起点
-http://kuqq.tk/00/huya.php?id=16102581
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",嫦娥撩电影
-http://kuqq.tk/00/huya.php?id=18201106
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",猎影派
-http://kuqq.tk/00/huya.php?id=16099968
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",方头人讲故事
-http://kuqq.tk/00/huya.php?id=16604314
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",比尔电影
-http://kuqq.tk/00/huya.php?id=17227870
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",正经的瓜皮酱
-http://kuqq.tk/00/huya.php?id=19810875
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",沫漾电影
-http://kuqq.tk/00/huya.php?id=15556391
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/movie.png" group-title="其他轮播",春寒一夜
-http://kuqq.tk/00/huya.php?id=20702189
 
 
