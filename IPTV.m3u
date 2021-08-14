@@ -59,8 +59,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8#http://bcliv
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-name="OAN Encore" tvg-logo="https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png" group-title="新闻频道",OAN Encore
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=242&deviceId=5e7cf6c7b156d500078c5f44&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="新闻频道" tvg-logo="https://i.imgur.com/TNQKahI.png",Press TV English
-https://live.presstv.com/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USBB1900002KF_20210525T051433.png" group-title="新闻频道",Real America's Voice
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="新闻频道",Reuters TV
@@ -82,7 +80,7 @@ https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/35/USAJ4300005PJ20200730102745.png" group-title="新闻频道",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/hls/amagi_hls_data_yahoofina-samsungyahoofinance/CDN/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Cinevault%20Westerns.png" group-title="电影频道",Cinevault Westerns
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Cinevault%20Westerns.png" group-title="电影频道",Cinevault Westerns
 https://gsn-cinevault-westerns-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
@@ -108,169 +106,3 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Movie%20Sphere.png" group-title="电影频道",Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/a-and-e-us.png" group-title="人文频道",A&E
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-http://45.4.85.130:8000/play/a0aa/index.m3u8
-#EXTINF:-1 tvg-name="Animals Live" tvg-logo="https://i.imgur.com/mJZHoUj.png" group-title="人文频道",Animals Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/animal-planet-us.png" group-title="人文频道",Animal Planet
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-id="BBL.UK" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="人文频道",BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-ID="CAS.US" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="人文频道",Classic Arts Showcase
-https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
-#EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="人文频道",Comedy Central
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="BBL.UK" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/contv.png" group-title="人文频道",ConTV
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1920x1080_4528000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/crime-and-investigation-us.png" group-title="人文频道",Crime Investigation
-http://203.154.243.31:15001
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-2-us.png" group-title="人文频道",Discovery Channel
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPNU" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/ESPN%20University.png" group-title="人文频道",ESPN University
-https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lk8azuc.png" group-title="人文频道",Fashion TV
-https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.fijione.tv/wp-content/uploads/2018/01/fijitv_small_logo_new.png" group-title="人文频道",Fiji TV
-https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nbc-golf-channel-us.png" group-title="人文频道",Golf Channel
-http://58.65.171.202:8000/play/15907/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/hdfashion.jpg" group-title="人文频道",HD Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="nadia" tvg-name="Hope Channel" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="人文频道",Hope Channel
-https://hcintlinc.mmdlive.lldns.net/hcintlinc/5d6c7f68a82b4c4885014e6f813b7bd9/manifest.m3u8
-#EXTINF:-1 tvg-name="Hunt Channel" group-title="人文频道" tvg-logo="https://i.imgur.com/DkvWWbE.png",Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Jasmin%20TV.jpg" group-title="人文频道",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 tvg-ID="MAO.NZ" tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="人文频道",Maori Television
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
-
-#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/MMATV.png" group-title="人文频道",MMA TV
-https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/national-geographic-us.png" group-title="人文频道",National Geographic
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nat-geo-wild-us.png" group-title="人文频道",National Wild
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-name="352 NASA TV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/441fd841-4cd4-42d0-8471-98d55a05ad47-small3x1_STIRR_Logo_0320_NASA_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="人文频道",NASATV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/%E5%9B%BD%E5%AE%B6%E5%A4%A7%E5%89%A7%E9%99%A2.jpg" group-title="人文频道",NCPA
-http://v.iam7.cn/iptv/cibn.php?code=128
-#EXTINF:-1 tvg-name="one golf" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="人文频道",One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-id="Outdoor America" tvg-name="Outdoor America" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/da15753d-c536-4b71-956f-265192b5f74e-small3x1_STIRR_Logo_0320_OutdoorAmerica_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="人文频道",Outdoor America
-https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV" tvg-id="Red Bull TV" tvg-logo="https://i.imgur.com/TvmeXdZ.png" group-title="人文频道",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="STA.US" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/stadium-us.png" group-title="人文频道",Stadium Network
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Animals" tvg-logo="http://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="人文频道",Pluto TV Animals
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" tvg-name="shakespeare" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A.jpg" group-title="人文频道",Shakespeare TV
-http://v.iam7.cn/iptv/cibn.php?code=68
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="人文频道",Weather Channel
-https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="Samsung Wildlife TV (US)" tvg-logo="https://i.imgur.com/x06npU2.png" group-title="人文频道",Wildlife TV
-https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/94/USAK3508703A20200730102745.png" group-title="纪录片频道" ,Crime 360
-https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8 
-#EXTINF:-1 tvg-id="Docurama" tvg-name="Docurama" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/64e1e4f2-5aa5-49d8-bd74-a692313d0473-small3x1_stirr_0120_epg_Docurama_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="纪录片频道",Docurama
-https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/74/USAJ2200016D920200730102745.png " group-title="纪录片频道" ,Filmrise Sci-Fi
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusfilmrisescifi/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/36/USAJ40000014Z20200730102745.png" group-title="纪录片频道" ,Filmrise True Crime
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusfilmrisetruecrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/history-channel-us.png" group-title="纪录片频道",History Channel
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Documentaries.jpg" group-title="纪录片频道",My5 Documentaries
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=475&deviceId=5ddf901280e3550009139c86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV History" tvg-logo="http://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="纪录片频道",Pluto TV History
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" tvg-name="shakespeare" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A.jpg" group-title="人文频道",Shakespeare TV
-#EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="纪录片频道",PBS America
-https://pbs-samsunguk.amagi.tv/playlist.m3u8#http://51.52.156.22:8888/http/012
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="纪录片频道",纪实人文
-http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
-http://117.169.124.11:6610/PLTV/88888910/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="纪录片频道",北京纪实
-http://117.169.124.11:6610/PLTV/88888910/224/3221225675/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰资讯
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台频道",香港开电视
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港台频道",翡翠台
-http://hls.globaliptv.ml/tvbjade.php
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港台频道",明珠台
-http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港台频道",J2
-http://61.238.6.49:8001/bysid/82
-#EXTINF:-1 tvg-id="127" tvg-name="阳光卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" group-title="港台频道",阳光卫视
-https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/startv.jpg" group-title="港台频道",星空卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/now332.png" group-title="港台频道",Now新闻332台
-http://teslagram.com/live/channel_332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="港台频道",RTHK 31
-http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="港台频道",RTHK 32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
-#EXTINF:-1 tvg-id="6067" tvg-name="Viu TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港台频道",Viu TV Six
-http://hls.globaliptv.ml/viu96.php
-#EXTINF:-1 tvg-id="6067" tvg-name="Viu TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港台频道",Viu TV
-http://hls.globaliptv.ml/viu99.php
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港台频道",无线财经资讯台
-http://61.238.6.49:8001/bysid/85
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港台频道",无线新闻台
-http://61.238.6.49:8001/bysid/83
-http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 tvg-id="6067" tvg-name="民视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台频道",民视新闻
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港台频道",壹新闻
-http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 group-title="港台频道" tvg-id="YZM.TW" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" ,原住民电视
-http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港台频道",TVBS新闻台
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港台频道",东森财经新闻台
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港台频道",东森新闻台
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/华视新闻资讯.png" group-title="港台频道",华视新闻台
-http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台频道",民视新闻台
-http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="港台频道",三立Inews
-http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/三立新闻.png" group-title="港台频道",三立Live
-http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港台频道",台视新闻台
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港台频道",中视新闻台
-http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/中天新闻.png" group-title="港台频道",中天新闻台
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港台频道",民视
-http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港台频道",民视第一台
-http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="港台频道",民视台湾台
-http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png" group-title="港台频道",民视影剧台
-http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="港台频道",民视综艺台
-http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png" group-title="港台频道",民视旅游台
-http://seb.sason.top/ptv/ftv.php?id=ly
