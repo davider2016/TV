@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="新闻频道",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="新闻频道" tvg-logo="http://arirang.com/images/index/arirang.png",Arirang TV
+#EXTINF:-1 group-title="新闻频道" tvg-logo="http://arirang.com/images/index/arirang.png",Arirang News
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="新闻频道",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+#EXTINF:-1 tvg-logo="http://www.rtvchannel.com.au/wp-content/uploads/2017/04/xshow_08.png.pagespeed.ic_.2KNN9OHw1p.png" group-title="新闻频道",Corncord TV
+http://www.rtvcdn.com.au:8082/TV0002.m3u8
 #EXTINF:-1 tvg-name="513 Al Jazeera" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="新闻频道",Aljazeera News
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/bbc%20world%20news.png" group-title="新闻频道",BBC World News
@@ -15,6 +17,8 @@ https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EU
 https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="CBSN 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cbsn-us.png" group-title="新闻频道",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-name="CBSN 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cbsn-us.png" group-title="新闻频道",CBS News (OP)
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VS1lw49.png" group-title="新闻频道",CBN News
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_1200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sP727kx.png" group-title="新闻频道",CNA
@@ -69,6 +73,12 @@ https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://rt-news-gd.secure2.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-news-icon-uk.png" group-title="新闻频道",Skynews
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/embed/news/sky-news-extra-colour.PNG" group-title="新闻频道",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/embed/news/sky-news-extra-colour.PNG" group-title="新闻频道",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/embed/news/sky-news-extra-colour.PNG" group-title="新闻频道",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="新闻频道",Telesur English
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-name="516 TRT World" tvg-logo="https://www.azernews.az/media/2018/07/07/300x175/trt_world_070718.png" group-title="新闻频道",TRT World
@@ -81,6 +91,7 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/35/USAJ4300005PJ20200730102745.png" group-title="新闻频道",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/hls/amagi_hls_data_yahoofina-samsungyahoofinance/CDN/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/CBC_TV_8.png" group-title="电影频道",CBC TV 8
@@ -231,6 +242,8 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8#http://51.52.156.22:8888/http/012
 http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="纪实频道",北京纪实
 http://117.169.124.11:6610/PLTV/88888910/224/3221225675/index.m3u8
+#EXTINF:-1 group-title="纪实频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
+https://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰资讯
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文
