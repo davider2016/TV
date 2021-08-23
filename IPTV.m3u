@@ -94,6 +94,8 @@ https://gsn-cinevault-westerns-1.samsung.wurl.com/manifest/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Prive Tv HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Prive.jpg" group-title="电影频道",Prive Movies
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Fox%20Movies.png",Fox Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fx-us.png" group-title="电影频道",FX
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC Absolute Reality
@@ -153,6 +155,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2e
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/crime-and-investigation-us.png" group-title="人文频道",Crime Investigation
 http://203.154.243.31:15001
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Davinci.jpg" tvg-logo="" group-title="人文频道",Da vinci
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-2-us.png" group-title="人文频道",Discovery Channel
 https://bozztv.com/teleyupp/teleup-discovery/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Distro%20TV.jpg" group-title="人文频道",Distro TV
@@ -163,6 +167,8 @@ https://stream2.grandma.fit/fs2.m3u8
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fijione.tv/wp-content/uploads/2018/01/fijitv_small_logo_new.png" group-title="人文频道",Fiji TV
 https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Fox%20HD.jpg" group-title="人文频道",Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nbc-golf-channel-us.png" group-title="人文频道",Golf Channel
 http://58.65.171.202:8000/play/15907/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/GQ.png" group-title="人文频道",GQ
@@ -184,8 +190,9 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 #EXTINF:-1 tv-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/MMATV.png" group-title="人文频道",MMA TV
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/national-geographic-us.png" group-title="人文频道",National Geographic
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nat-geo-wild-us.png" group-title="人文频道",National Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
 #EXTINF:-1 tvg-name="352 NASA TV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/441fd841-4cd4-42d0-8471-98d55a05ad47-small3x1_STIRR_Logo_0320_NASA_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="人文频道",NASATV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
