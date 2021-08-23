@@ -179,6 +179,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Hitlist%20Romania.jpg" group-title="人文频道",Hitlist Romania
 https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/hillsong.jpg" group-title="人文频道",Hillsong Channel
+https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
 #EXTINF:-1 tvg-id="nadia" tvg-name="Hope Channel" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="人文频道",Hope Channel
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/5d6c7f68a82b4c4885014e6f813b7bd9/manifest.m3u8
 #EXTINF:-1 tvg-name="Hunt Channel" group-title="人文频道" tvg-logo="https://i.imgur.com/DkvWWbE.png",Hunt Channel
