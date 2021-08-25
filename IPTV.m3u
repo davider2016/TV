@@ -220,6 +220,8 @@ http://v.iam7.cn/iptv/cibn.php?code=128
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="Outdoor America" tvg-name="Outdoor America" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/da15753d-c536-4b71-956f-265192b5f74e-small3x1_STIRR_Logo_0320_OutdoorAmerica_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="人文频道",Outdoor America
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="人文频道",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPmRZ19.png" group-title="人文频道",Pop TV
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-name="Outdoor America" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Power%20TV.jpg" group-title="人文频道",Power TV HD
