@@ -148,6 +148,14 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4G5P34/ABC-TV-2021.png" group-title="人文频道",ABC TV Australia
 https://c.mjh.nz/101002510251/
+#EXTINF:-1 tvg-ID="AB2.AU" tvg-logo="https://static.epg.best/au/ABCComedy.au.png" group-title="人文频道",ABC Comedy
+https://c.mjh.nz/abc2/
+#EXTINF:-1 tvg-ID="A24.AU" tvg-logo="http://static.epg.best/au/ABCNews24.au.png" group-title="人文频道",ABC News 24
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-ID="AB3.AU" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="人文频道",ABC ME
+https://c.mjh.nz/101002210224/
+#EXTINF:-1 tvg-ID="ABK.AU" tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="人文频道",ABC Kids
+https://c.mjh.nz/101002210222/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Beach.jpg" group-title="人文频道",Beaches
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 #EXTINF:-1 group-title="人文频道" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/asian%20food%20network.png",Asian Food Network
