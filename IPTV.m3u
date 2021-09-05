@@ -280,6 +280,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusfilmrisescifi/CDN/pl
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusfilmrisetruecrime/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/history-channel-us.png" group-title="纪实频道",History Channel
 https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/history-channel-us.png" group-title="纪实频道",History Channel(OP)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Documentaries.jpg" group-title="纪实频道",My5 Documentaries
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=475&deviceId=5ddf901280e3550009139c86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV History" tvg-logo="http://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="纪实频道",Pluto TV History
