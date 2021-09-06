@@ -145,10 +145,8 @@ https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/tnt-us.png" group-title="电影频道",TNT (West)
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YWYSFWJ/ezgif-com-gif-maker-removebg-preview.png" group-title="电影频道",Zee World
-https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest/scale-to-width-down/2000?cb=20191222192752" group-title="电影频道",Zee Cinema
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-chno="199" tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/stdn38zi1n88rt8/TrueHD.png?dl=0" group-title="电影频道", True Film HD 2
+https://mediasv.online/tvchannel_x1/true-filmhd2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgNDo0MjowNCBQTSZoYXNoX3ZhbHVlPXlJbzc0cXhITlBvd3RYWDVtcElpclE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjUmaWQ9Y2hfMTMwNjY=
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="电影频道",天映经典1
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="电影频道",天映经典2
@@ -175,6 +173,8 @@ https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/animal-planet-us.png" group-title="人文频道",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-name="Animals Live" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/AXN.png" group-title="人文频道",AXN
+https://mediasv.online/tvchannel_x1/hd-axn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgNToyNjo1NCBQTSZoYXNoX3ZhbHVlPU5vNTVreWJWTjJXbVJWNHdmZjlmN1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MTkmaWQ9Y2hfNDA0MzA=
 #EXTINF:-1 tvg-id="BBL.UK" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="人文频道",BBC Lifestyle
 http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
 #EXTINF:-1 tvg-id="BBL.UK" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Big%20Life%20TV.png" group-title="人文频道",Big Life TV
@@ -193,6 +193,8 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1920x1080
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-2-us.png" group-title="人文频道",Discovery Channel
 https://bozztv.com/teleyupp/teleup-discovery/playlist.m3u8
+#EXTINF:0 tvg-chno="501" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQTMqS.md.png" group-title="人文频道",Discovery Asia
+https://mediasv.online/tvchannel_x1/discovery-asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgNjowMTozMCBQTSZoYXNoX3ZhbHVlPWc1N3VnNk15MDF3NFVqMWlJYkFweGc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjcmaWQ9Y2hfNjc5Nzg=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Distro%20TV.jpg" group-title="人文频道",Distro TV
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lk8azuc.png" group-title="人文频道",Fashion TV
@@ -204,7 +206,7 @@ https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Fox%20HD.jpg" group-title="人文频道",Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Fox%20Life.jpg" group-title="人文频道",Fox Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+https://mediasv.online/tvchannel_x1/hd-foxlife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgNToxMTozOCBQTSZoYXNoX3ZhbHVlPU8xbGFXRm9jRzZSVDhQbUpUQjY4SWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjMmaWQ9Y2hfMTQwNzQ=
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nbc-golf-channel-us.png" group-title="人文频道",Golf Channel
 http://58.65.171.202:8000/play/15907/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/GQ.png" group-title="人文频道",GQ
