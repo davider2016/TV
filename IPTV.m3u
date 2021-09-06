@@ -89,7 +89,8 @@ https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 https://yahoo-samsung.amagi.tv/hls/amagi_hls_data_yahoofina-samsungyahoofinance/CDN/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png"  group-title="电影频道",Cinevault 80's
+https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Cinevault%20Westerns.png" group-title="电影频道",Cinevault Westerns
 https://gsn-cinevault-westerns-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="电影频道",Cinemax 
@@ -102,10 +103,10 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fx-us.png" group-title="电影频道",FX
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC 
 http://212.102.60.76:80/f1/mono.m3u8
-#EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC Absolute Reality
-https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USAJ3400010RS_20210428T040253.png" ,Stories by AMC
+https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC IFC Film Picks" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC IFC Film Picks
 https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC Presents" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC Presents
@@ -114,6 +115,12 @@ https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
 https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC Slightly off
 https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC Absolute Reality
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USAJ3400010RS_20210428T040253.png" group-title="电影频道",Stories by AMC
+https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/18/USAJ3504703A20200730102745.png" group-title="电影频道",Gravitas Movies
+https://gravitas-movies.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Hallmark%20Movies%20%26%20More.jpg" group-title="电影频道",Hallmark Movies & More
 https://dqvu8d0acm4xt.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影频道",HBO
@@ -141,6 +148,8 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Posi%20TV.jpg" group-title="电影频道",Posi TV
 https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?OTATV
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06052020/Paramount_Movie_Channel_190x190.png?raw=true" group-title="电影频道",Paramount Movie Channel
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/showtime-icon-us.png" group-title="电影频道",SHOWTIME
 http://stream.tvtap.live:8081/live/us-showtime.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/syfy-us.png" group-title="电影频道",SYFY
@@ -213,8 +222,6 @@ https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Fox%20Life.jpg" group-title="人文频道",Fox Life
 https://mediasv.online/tvchannel_x1/hd-foxlife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgNToxMTozOCBQTSZoYXNoX3ZhbHVlPU8xbGFXRm9jRzZSVDhQbUpUQjY4SWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjMmaWQ9Y2hfMTQwNzQ=
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nbc-golf-channel-us.png" group-title="人文频道",Golf Channel
-http://58.65.171.202:8000/play/15907/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/GQ.png" group-title="人文频道",GQ
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/hdfashion.jpg" group-title="人文频道",HD Fashion
@@ -245,8 +252,6 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons/%E5%9B%BD%E5%AE%B6%E5%A4%A7%E5%89%A7%E9%99%A2.jpg" group-title="人文频道",NCPA
 http://v.iam7.cn/iptv/cibn.php?code=128
-#EXTINF:-1 tvg-name="one golf" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="人文频道",One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="Outdoor America" tvg-name="Outdoor America" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/da15753d-c536-4b71-956f-265192b5f74e-small3x1_STIRR_Logo_0320_OutdoorAmerica_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="人文频道",Outdoor America
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="人文频道",PBS Kids
@@ -398,6 +403,8 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/ACCDN.jpg" group-title="体育频道",ACCDN
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/74/USBA300030Q820200730102745.png" group-title="体育频道",Buzzr
+https://buzzr-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CBS_Sports_HQ.png" group-title="体育频道",CBS Sports HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/08/USBA3700002JF_20200915T081305.png" group-title="体育频道" ,ET Live
@@ -408,6 +415,12 @@ https://stream2.grandma.fit/fs2.m3u8
 https://gsn-gameshowchannnel-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Game_Show_Network_2018.svg/revision/latest/scale-to-width-down/2000?cb=20181001190927" group-title="体育频道",Game Show Network
 https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nbc-golf-channel-us.png" group-title="体育频道",Golf Channel
+http://58.65.171.202:8000/play/15907/index.m3u8
+#EXTINF:-1 tvg-name="one golf" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="体育频道",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/34/USAJ4000008FX20200730102745.png" group-title="体育频道",Reelz
+https://dai2-ipv4.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-reelzchannel/CDN/master.m3u8
 #EXTINF:-1 group-title="体育频道" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312010830nfl.png",NFL
 https://mediasv.online/tvchannel_x1/nflnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgNjoyODoxMyBQTSZoYXNoX3ZhbHVlPUpybFRFcVhTL0diSlUwNzd4ekFBQlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjMmaWQ9Y2hfNzYxMDA=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="体育频道",NFL Network
