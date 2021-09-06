@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="新闻频道",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Africa%20News.jpg" group-title="新闻频道",ABC News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Africa%20News.jpg" group-title="新闻频道",Africa News
 https://d21ftltzb623rq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-AfricanewsEnglish/playlist.m3u8
 #EXTINF:-1 group-title="新闻频道" tvg-logo="http://arirang.com/images/index/arirang.png",Arirang News
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
@@ -88,21 +88,6 @@ https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/35/USAJ4300005PJ20200730102745.png" group-title="新闻频道",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/hls/amagi_hls_data_yahoofina-samsungyahoofinance/CDN/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png"  group-title="电影频道",Cinevault 80's
-https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Cinevault%20Westerns.png" group-title="电影频道",Cinevault Westerns
-https://gsn-cinevault-westerns-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="电影频道",Cinemax 
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&Flix
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="Prive Tv HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Prive.jpg" group-title="电影频道",Prive Movies
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Fox%20Movies.png",Fox Movies
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fx-us.png" group-title="电影频道",FX
-https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/amc-us.png" group-title="电影频道",AMC 
 http://212.102.60.76:80/f1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USAJ3400010RS_20210428T040253.png" ,Stories by AMC
@@ -119,6 +104,14 @@ https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
 https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USAJ3400010RS_20210428T040253.png" group-title="电影频道",Stories by AMC
 https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png"  group-title="电影频道",Cinevault 80's
+https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Cinevault%20Westerns.png" group-title="电影频道",Cinevault Westerns
+https://gsn-cinevault-westerns-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="电影频道",Cinemax 
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/78/USAJ40000072X20200730102745.png" group-title="电影频道",Filmrise Free movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/18/USAJ3504703A20200730102745.png" group-title="电影频道",Gravitas Movies
 https://gravitas-movies.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Hallmark%20Movies%20%26%20More.jpg" group-title="电影频道",Hallmark Movies & More
@@ -137,6 +130,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png",HBO Max
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/USAJ3000007MT20200730102745.png" group-title="电影频道",Maverick Black Cinema
+https://maverick-maverick-black-cinema-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/movie%20kingdom.png" group-title="电影频道",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Movie%20Mix.png" group-title="电影频道",Movie Mix
@@ -159,6 +154,8 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/tnt-us.png" group-title="电影频道",TNT (West)
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-chno="199" tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/stdn38zi1n88rt8/TrueHD.png?dl=0" group-title="电影频道", True Film HD 2
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/58/USBA3000041ZP_20201208T081544.png"  group-title="电影频道",The Movie Hub
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 https://mediasv.online/tvchannel_x1/true-filmhd2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgNDo0MjowNCBQTSZoYXNoX3ZhbHVlPXlJbzc0cXhITlBvd3RYWDVtcElpclE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjUmaWQ9Y2hfMTMwNjY=
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="电影频道",天映经典1
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
@@ -261,16 +258,8 @@ https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-name="Outdoor America" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Power%20TV.jpg" group-title="人文频道",Power TV HD
 https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/chunklist_b2064000.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Bein%20Sports%20Extra.jpg" group-title="人文频道",Bein Sports Extra
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=752&deviceId=59641d9173ac1fec2fc01f17&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Red Bull TV" tvg-id="Red Bull TV" tvg-logo="https://i.imgur.com/TvmeXdZ.png" group-title="人文频道",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="STA.US" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/stadium-us.png" group-title="人文频道",Stadium Network
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Animals" tvg-logo="http://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="人文频道",Pluto TV Animals
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" tvg-name="Samsung Wildlife TV (US)" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/USA%20Today.png" group-title="人文频道",USA Today
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="人文频道",Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="Samsung Wildlife TV (US)" tvg-logo="https://i.imgur.com/x06npU2.png" group-title="人文频道",Wildlife TV
@@ -401,37 +390,43 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png" tvg-url="" group-title="港台频道",Astro 小太阳 
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/ACCDN.jpg" group-title="体育频道",ACCDN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/ACCDN.jpg" group-title="文体频道",ACCDN
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/74/USBA300030Q820200730102745.png" group-title="体育频道",Buzzr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/Bein%20Sports%20Extra.jpg" group-title="文体频道",Bein Sports Extra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=752&deviceId=59641d9173ac1fec2fc01f17&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/74/USBA300030Q820200730102745.png" group-title="文体频道",Buzzr
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CBS_Sports_HQ.png" group-title="体育频道",CBS Sports HQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CBS_Sports_HQ.png" group-title="文体频道",CBS Sports HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/08/USBA3700002JF_20200915T081305.png" group-title="体育频道" ,ET Live
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/08/USBA3700002JF_20200915T081305.png" group-title="文体频道" ,ET Live
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN
+#EXTINF:-1 group-title="文体频道" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN
 https://stream2.grandma.fit/fs2.m3u8
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/49/USAJ3400012FA20200730102745.png" group-title="体育频道",Game Show Central
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/49/USAJ3400012FA20200730102745.png" group-title="文体频道",Game Show Central
 https://gsn-gameshowchannnel-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Game_Show_Network_2018.svg/revision/latest/scale-to-width-down/2000?cb=20181001190927" group-title="体育频道",Game Show Network
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Game_Show_Network_2018.svg/revision/latest/scale-to-width-down/2000?cb=20181001190927" group-title="文体频道",Game Show Network
 https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nbc-golf-channel-us.png" group-title="体育频道",Golf Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nbc-golf-channel-us.png" group-title="文体频道",Golf Channel
 http://58.65.171.202:8000/play/15907/index.m3u8
-#EXTINF:-1 tvg-name="one golf" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="体育频道",One Golf
+#EXTINF:-1 tvg-name="one golf" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="文体频道",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/34/USAJ4000008FX20200730102745.png" group-title="体育频道",Reelz
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/34/USAJ4000008FX20200730102745.png" group-title="文体频道",Reelz
 https://dai2-ipv4.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-reelzchannel/CDN/master.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312010830nfl.png",NFL
+#EXTINF:-1 group-title="文体频道" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312010830nfl.png",NFL
 https://mediasv.online/tvchannel_x1/nflnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgNjoyODoxMyBQTSZoYXNoX3ZhbHVlPUpybFRFcVhTL0diSlUwNzd4ekFBQlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjMmaWQ9Y2hfNzYxMDA=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="体育频道",NFL Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="文体频道",NFL Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="体育频道",MLB Network
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="文体频道",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/217_1920x1080_HTV.png" group-title="体育频道",NBA HD
-https://sport.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/MMA%20TV%202.png" group-title="体育频道",MMA
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/217_1920x1080_HTV.png" group-title="文体频道",NBA HD
+http://82.114.87.150:8881/play/a0au/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/MMA%20TV%202.png" group-title="文体频道",MMA
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png",Pluto TV All Elite Wrestling
+#EXTINF:-1 group-title="文体频道" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png",Pluto TV All Elite Wrestling
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/WWE.png" group-title="体育频道",WWE
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-id="Red Bull TV" tvg-logo="https://i.imgur.com/TvmeXdZ.png" group-title="文体频道",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="STA.US" tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/stadium-us.png" group-title="文体频道",Stadium Network
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davider2016/Favourite/main/Icons%20for%20English%20Channels/WWE.png" group-title="文体频道",WWE
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
